@@ -1,0 +1,15 @@
+$ git reflog
+352d2da (HEAD -> master, origin/master, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+1a76ee7 HEAD@{1}: checkout: moving from develop to master
+352d2da (HEAD -> master, origin/master, origin/develop, develop) HEAD@{2}: commit: commit index.html
+6f7656d HEAD@{3}: merge styles: Merge made by the 'recursive' strategy.
+06d2038 (origin/images, images) HEAD@{4}: merge images: Fast-forward
+9ed3842 HEAD@{5}: checkout: moving from styles to develop
+e46d44e (origin/styles, styles) HEAD@{6}: commit: change index.html
+9ed3842 HEAD@{7}: checkout: moving from develop to styles
+9ed3842 HEAD@{8}: checkout: moving from images to develop
+06d2038 (origin/images, images) HEAD@{9}: commit: add 12.jpg
+9ed3842 HEAD@{10}: checkout: moving from develop to images
+9ed3842 HEAD@{11}: commit: add index.html
+1a76ee7 HEAD@{12}: checkout: moving from master to develop
+1a76ee7 HEAD@{13}: commit (initial): Initial commit
