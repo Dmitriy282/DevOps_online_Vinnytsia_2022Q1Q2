@@ -58,9 +58,9 @@ First run VirtualBox and Virtual Machine (VM). 1.1 Get acquainted with the struc
 5.Connect to the VM using the program PuTTY (can be downloaded from [6]), using SSH, IP address and port listed above (127.0.0.1:2222). By default, login -vagrantand password are also vagrant
  ![]()
 6.Record the date and time by executing the datecommand
- ![]()
+ ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/imagePart3.png)
 7.Stop and delete the created VM.
- ![]()
+ ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/imagePart3.7.png)
 8.Create your own Vagrant box[7]
  ![]()
 9.(optional)Createa test environment from a few servers. Servers' parameters are chosen independently by the student.
