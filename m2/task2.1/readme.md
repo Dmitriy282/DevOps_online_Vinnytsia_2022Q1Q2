@@ -59,8 +59,10 @@ First run VirtualBox and Virtual Machine (VM). 1.1 Get acquainted with the struc
  ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/imagePart3.6.png)
 6.Record the date and time by executing the datecommand
  ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/imagePart3.png)
+
 7.Stop and delete the created VM.
  ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/imagePart3.7.png)
+
 8.Create your own Vagrant box[7]
  ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/imagePart3.8.1.png)
  ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/imagePart3.8.2.png)
