@@ -54,7 +54,7 @@ First run VirtualBox and Virtual Machine (VM). 1.1 Get acquainted with the struc
 3.Initialize the environment with the default Vagrant box:init hashicorp/precise64
  ![]()
 4.Run vagrant upand watch for messages during VM boot and startup.
- ![]()
+ ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/imagePart3.4.png)
 5.Connect to the VM using the program PuTTY (can be downloaded from [6]), using SSH, IP address and port listed above (127.0.0.1:2222). By default, login -vagrantand password are also vagrant
  ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/imagePart3.6.png)
 6.Record the date and time by executing the datecommand
