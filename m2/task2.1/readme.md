@@ -3,7 +3,7 @@
 2. Hypervisors are divided into type 1 and type 2. Type 1 runs on pure hardware and Type 2 floors the operating system.
 VMware vSphere provides a powerful, flexible and secure foundation for next-generation applications, helping to achieve effective digital transformation. Microsoft Hyper-V Server is an embedded hypervisor, with server virtualisation as its primary role. Citrix XenServer is based on the open source Xen hypervisor, widely used across industries and with a proven track record of stability and performance.
 
-Translated with www.DeepL.com/Translator (free version)
+
 # PART 2. WORK WITH VIRTUALBOX
 First run VirtualBox and Virtual Machine (VM). 1.1 Get acquainted with the structure of the user manual VirtualBox[1](see list of references in the end of the document)
 1.2 From the official VirtualBox site [2] download the latest stable version of VirtualBox according to the host operating system (OS) installed on the student's workplace. For Windows, the file may be called, for example, VirtualBox-6.1.10-138449-Win.exe. Install VirtualBox.
