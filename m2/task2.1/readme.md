@@ -8,21 +8,21 @@ First run VirtualBox and Virtual Machine (VM). 1.1 Get acquainted with the struc
  ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/image1.4.png?raw=true)
  
 1.5 Get acquainted with thepossibilities of VM1 control -start, stop, reboot, save state, use Host key and keyboard shortcuts, mouse capture, etc. [1, ch.1.9].
-
+ ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/image1.5.png)
 1.6 Clone an existing VM1 by creating a VM2 [1, ch.1.14].
-
+ ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/image1.6.png)
 1.7 Create a group of two VM: VM1, VM2 and learn the functions related to groups [1, ch.1.10].
-
+ ![]()
 1.8 For VM1, changing its state, take several different snapshots, forming a branched tree of snapshots[1, ch.1.11].
 
 1.9 Export VM1. Save the *.ova file to disk. Import VM from *.ova file[1, ch.1.15].
-
+ ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/image1.9.png)
 2.1 Explore VM configuration options (general settings, system settings, display, storage, audio, network, etc.).
-
+ ![https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/image2.1.png]
 2.2 Configure the USB to connect the USB ports of the host machine to the VM [1, ch.3.11].
-
+ ![https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/image2.2.png]
 2.3 Configure a shared folder to exchange data between the virtual machine and the host [1, ch.4.3].
-
+ ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/image2.3.png)
 2.4 Configure different network modes for VM1, VM2. Check the connection between VM1, VM2, Host, Internet for different network modes. You can use the pingcommand to do this. Make a table of possible connections.
 
 3.1 Run the cmd.exe command line.
