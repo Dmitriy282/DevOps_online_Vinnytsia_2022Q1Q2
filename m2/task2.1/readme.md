@@ -62,6 +62,7 @@ First run VirtualBox and Virtual Machine (VM). 1.1 Get acquainted with the struc
 7.Stop and delete the created VM.
  ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/imagePart3.7.png)
 8.Create your own Vagrant box[7]
- ![]()
+ ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/imagePart3.8.1.png)
+ ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/imagePart3.8.2.png)
 9.(optional)Createa test environment from a few servers. Servers' parameters are chosen independently by the student.
  ![]()
