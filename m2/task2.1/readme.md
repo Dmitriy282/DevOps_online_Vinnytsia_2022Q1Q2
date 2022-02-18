@@ -29,7 +29,7 @@ First run VirtualBox and Virtual Machine (VM). 1.1 Get acquainted with the struc
 
 3.2 Examine the purpose and execute the basic commands of VBoxManage list, showvminfo, createvm, startvm, modifyvm, clonevm, snapshot, controlvm[1, ch.8].
 
-PART 3. WORK WITH VAGRANT
+# PART 3. WORK WITH VAGRANT
 
 1.Download the required version of Vagrant according to the instructions [5] and according to the host operating system (OS) installed on the student's workplace. For Windows, the file may be called, for example, vagrant_2.2.0_x86_64.msi. Install Vagrant. Check the path to Vagrant bin in the Path variable (My computer -> Properties -> Advanced system settings -> Advanced -> Environment Variables).
 
