@@ -12,9 +12,9 @@ First run VirtualBox and Virtual Machine (VM). 1.1 Get acquainted with the struc
 1.6 Clone an existing VM1 by creating a VM2 [1, ch.1.14].
  ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/image1.6.png)
 1.7 Create a group of two VM: VM1, VM2 and learn the functions related to groups [1, ch.1.10].
- ![]()
+ ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/image1.7.png)
 1.8 For VM1, changing its state, take several different snapshots, forming a branched tree of snapshots[1, ch.1.11].
-
+ ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/image1.8.png)
 1.9 Export VM1. Save the *.ova file to disk. Import VM from *.ova file[1, ch.1.15].
  ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.1/image1.9.png)
 2.1 Explore VM configuration options (general settings, system settings, display, storage, audio, network, etc.).
@@ -36,15 +36,16 @@ PART 3. WORK WITH VAGRANT
 2.Run the powershell. Create a folder "student name" (in English). In this example, create a folder vagrant_test. Next, go to the folder.
 
 3.Initialize the environment with the default Vagrant box:init hashicorp/precise64
-
+ ![]()
 4.Run vagrant upand watch for messages during VM boot and startup.
-
+ ![]()
 5.Connect to the VM using the program PuTTY (can be downloaded from [6]), using SSH, IP address and port listed above (127.0.0.1:2222). By default, login -vagrantand password are also vagrant
-
+ ![]()
 6.Record the date and time by executing the datecommand
-
+ ![]()
 7.Stop and delete the created VM.
-
+ ![]()
 8.Create your own Vagrant box[7]
-
+ ![]()
 9.(optional)Createa test environment from a few servers. Servers' parameters are chosen independently by the student.
+ ![]()
