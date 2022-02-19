@@ -69,4 +69,5 @@ First run VirtualBox and Virtual Machine (VM). 1.1 Get acquainted with the struc
 
 
 9.(optional)Createa test environment from a few servers. Servers' parameters are chosen independently by the student.
+ https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/tree/main/m2/task2.1/multymachine
  ![]()
