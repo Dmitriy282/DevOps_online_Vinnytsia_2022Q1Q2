@@ -57,12 +57,46 @@ Create a user AWS IAM, configure CLI AWS and upload any files to S3.
 13. Review the 10-minute example Deploy Docker Containers on Amazon Elastic Container Service 
 (Amazon ECS). Repeat, create a cluster, and run the online demo application or better other
 application with custom settings.
-![]()
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task13.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task13.1.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task13.2.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task13.3.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task13.4.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task13.5.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task13.6.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task13.7.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task13.8.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task13.9.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task13.10.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task13.11.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task13.12.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task13.13.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task13.14.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task13.15.png)
 14. Run a Serverless "Hello, World!" with AWS Lambda.
-![]()
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task14.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task14.1.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task14.2.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task14.3.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task14.4.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task14.5.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task14.6.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task14.7.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task14.8.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task14.9.png)
 15. Create a static website on Amazon S3, publicly available (link1 or link2 - using a custom domain 
 registered with Route 53). Post on the page your own photo, the name of the educational 
 program (EPAM DevOps online Winter 2022), the list of AWS services with which the student 
 worked within the educational program or earlier and the full list with links of completed labs 
 (based on tutorials or qwiklabs). Provide the link to the website in your report and СV.
-![]()
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task15.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task15.1.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task15.2.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task15.3.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task15.4.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task15.5.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task15.6.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task15.7.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task15.8.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task15.9.png)
+
