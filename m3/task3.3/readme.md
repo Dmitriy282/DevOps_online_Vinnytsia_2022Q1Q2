@@ -4,8 +4,9 @@
 
 3. Check the network operation using ping and tracert.
 The last command will check the route of the packet. Figure 4 shows the results of tracert from Client 1 to Web Server 2.
+
 Configuring dynamic routing (optional task)
-From the routing tables of the routers ISP1, ISP2 and ISP3 delete the static entries.
+4. From the routing tables of the routers ISP1, ISP2 and ISP3 delete the static entries.
 
 5. On routers ISP1, ISP2, and ISP3, configure the RIP protocol by specifying a list of directly connected networks in class format, as shown in Figure 5 for ISP1.
 
