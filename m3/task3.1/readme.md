@@ -30,3 +30,9 @@ activate capture mode.
 7. In each of these headers, find the sender and recipient, the IP addresses of the sender and the recipient, and the port numbers of the sender and
 recipient.
 
+Sender MAC address: f0:77:c3:85:d7:bb
+Receiver MAC address: 90:9a:4a:24:fe:b8
+Source IP address: 192.168.0.104
+Receive IP address: 144.195.53.205
+TCP port of the sender: 55971
+Receiver TCP port: 8801
