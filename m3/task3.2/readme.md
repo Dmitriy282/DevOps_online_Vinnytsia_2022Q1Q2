@@ -1,7 +1,7 @@
 1. Connect the networks created in the previous task with each other, as shown in Fig. 1. Use the PT-Empty routers to build the Internet network, first inserting the 5 1CGE modules, as shown in Figure 2. Switch Enterprise network to interface GigabitEthernet0/0 (GE0/0) Router ISP1, Switch Data Center network to interface GigabitEthernet0/0 (GE0/0) Router ISP3, WAN port Home Router Home Office network to interface GigabitEthernet0/0 (GE0/0), as shown in Figure 1. Connect the routers through the interfaces as shown in Figure 1.
-2. To implement the network Internet to use a network with an address of (D+10).M.Y.0/24, dividing it into subnets with the prefix /26. 3.
-Assign IP addresses to router interfaces according to the following rules: Router ISP1 GE0/0 to 10.Y.D.1/24, Router ISP3 GE0/0 to M.D.Y.1/24. Addresses for Other interfaces of routers to be assigned in accordance with the address division
-(D+10).M.Y.0/24 into subnets. Example of interface IP address assignment router ISP1 GE0/0 is shown in Fig. 3. Warning - it is imperative that you enable the interface by checking the "On" box.
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(1).png)
+2. To implement the network Internet to use a network with an address of (D+10).M.Y.0/24, dividing it into subnets with the prefix /26.
+3.Assign IP addresses to router interfaces according to the following rules: Router ISP1 GE0/0 to 10.Y.D.1/24, Router ISP3 GE0/0 to M.D.Y.1/24. Addresses for Other interfaces of routers to be assigned in accordance with the address division (D+10).M.Y.0/24 into subnets. Example of interface IP address assignment router ISP1 GE0/0 is shown in Fig. 3. Warning - it is imperative that you enable the interface by checking the "On" box.
 4. On the computers, specify the addresses of the corresponding gateway addresses (Default Gateway)
 5. Check the connection of computers with their own gateways using the command ping
 Configuring VLAN in Data Center
