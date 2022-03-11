@@ -99,4 +99,12 @@ worked within the educational program or earlier and the full list with links of
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task15.7.png)
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task15.8.png)
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task15.9.png)
+List of work done:
+worked with route 53;
+worked with instances;
+worked with garbage cans; worked with network drive;
+connected Wordpress to the instance;
+worked with AWS service;
+connected the pp.ua domain to Amazon cloud service;
+configured Docker for Amazon ECS.
 
