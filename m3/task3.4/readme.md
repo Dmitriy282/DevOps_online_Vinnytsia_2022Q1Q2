@@ -17,5 +17,6 @@ Configuring Port Forwarding on the Home Router (optional task)
 
 12. Add an entry on the DNS Server for the Home Server, as shown in Fig.9
 
-13. Check the functionality by entering on Client1 in Desktop/Web
-Browser - domain3.com, as shown in Fig. 10
+13. Check the functionality by entering on Client1 in Desktop/Web Browser - domain3.com, as shown in Fig. 10
+
+File link:
