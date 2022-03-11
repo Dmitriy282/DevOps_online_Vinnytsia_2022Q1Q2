@@ -8,6 +8,7 @@
 8. Verify operability by sending a ping from the Client to the domain name, as shown in Fig. 5
 
 Configuring Port Forwarding on the Home Router (optional task)
+
 9. Add the Home Office Home Server to the network and assign it a static address, as shown in Fig. 6
 
 10. On the Home Server, for the HTTP service, edit the index.html, as shown in Fig. 7
