@@ -1,5 +1,10 @@
 1. Configuring routing tables on routers ISP1, ISP2 and ISP3. You should only enter routes to remote networks in the routing tables. For example, on Router ISP2 you must specify routes only to the 10.99.25.0/ and 4.25.99.0/24 networks. Network 192.168.0.0 network should not be included into routing table of routers ISP1, ISP2 and ISP3 because it is under NAT. Example configuration of the routing settings on the Router ISP2 is shown in Fig.2.
-
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.3/image%20(1).png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.3/image%20(2).png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.3/image%20(3).png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.3/image%20(4).png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.3/image%20(5).png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.3/image%20(6).png)
 2. Configuring routing on the wireless Home Router by adding a Default route on Router ISP2, as shown in Fig. 3
 
 3. Check the network operation using ping and tracert.
@@ -12,3 +17,4 @@ Configuring dynamic routing (optional task)
 
 6. Repeat step 3 to check if it works.
 
+File link:
