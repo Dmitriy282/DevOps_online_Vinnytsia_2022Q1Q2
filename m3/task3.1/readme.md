@@ -36,3 +36,4 @@ Source IP address: 192.168.0.104
 Receive IP address: 144.195.53.205
 TCP port of the sender: 55971
 Receiver TCP port: 8801
+Link file:https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.1/3.1.pkt
