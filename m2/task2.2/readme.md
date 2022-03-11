@@ -46,7 +46,14 @@ register the domain name *.PP.UA and use it.
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task11.5.png)
 12. Review the 10-minute example Batch upload files to the cloud to Amazon S3 using the AWS CLI.
 Create a user AWS IAM, configure CLI AWS and upload any files to S3. 
-![]()
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task12.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task12.1.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task12.2.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task12.3.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task12.4.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task12.5.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task12.6.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task12.7.png)
 13. Review the 10-minute example Deploy Docker Containers on Amazon Elastic Container Service 
 (Amazon ECS). Repeat, create a cluster, and run the online demo application or better other
 application with custom settings.
