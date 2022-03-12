@@ -17,4 +17,4 @@ Configuring dynamic routing (optional task)
 
 6. Repeat step 3 to check if it works.
 
-File link:
+File link: https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.3/3.3.pkt
