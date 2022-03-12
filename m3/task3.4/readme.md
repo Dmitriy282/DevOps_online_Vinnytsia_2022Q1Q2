@@ -19,4 +19,4 @@ Configuring Port Forwarding on the Home Router (optional task)
 
 13. Check the functionality by entering on Client1 in Desktop/Web Browser - domain3.com, as shown in Fig. 10
 
-File link:
+File link: https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.4/3.4.pkt
