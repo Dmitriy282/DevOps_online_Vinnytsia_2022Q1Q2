@@ -18,7 +18,7 @@ Configuring dynamic routing (optional task)
 4. From the routing tables of the routers ISP1, ISP2 and ISP3 delete the static entries.
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.3/task4%20(2).png)
 5. On routers ISP1, ISP2, and ISP3, configure the RIP protocol by specifying a list of directly connected networks in class format, as shown in Figure 5 for ISP1.
-
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.3/task5.png)
 6. Repeat step 3 to check if it works.
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.3/task6%20(2).png)
 File link: https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.3/3.3.pkt
