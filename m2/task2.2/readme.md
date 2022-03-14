@@ -8,10 +8,10 @@ and Terminate Your Instance. Do not use Amazon Lightsail. It is recommended to u
 t3.micro instance and the CentOS operating system.
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task4.png)
 5. Create a snapshot of your instance to keep as a backup.
-![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task5.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task6.png)
 6. Create and attach a Disk_D (EBS) to your instance to add more storage space. Create and save 
 some file on Disk_D.
-![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task6.png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task5.png)
 7. Launch the second instance from backup.
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m2/task2.2/task7.png)
 8. Detach Disk_D from the 1st instance and attach disk_D to the new instance.
