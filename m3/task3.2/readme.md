@@ -5,11 +5,13 @@
 3.Assign IP addresses to router interfaces according to the following rules: Router ISP1 GE0/0 to 10.Y.D.1/24, Router ISP3 GE0/0 to M.D.Y.1/24. Addresses for Other interfaces of routers to be assigned in accordance with the address division (D+10).M.Y.0/24 into subnets. Example of interface IP address assignment router ISP1 GE0/0 is shown in Fig. 3. Warning - it is imperative that you enable the interface by checking the "On" box.
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(3).png)
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(4).png)
+
 4.On the computers, specify the addresses of the corresponding gateway addresses (Default Gateway)
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(5).png)
 5.Check the connection of computers with their own gateways using the command ping
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(6).png)
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(7).png)
+
 Configuring VLAN in Data Center
 6.Verify communication between servers using the ping command and route Passing the packet using tracert
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(8).png)
@@ -27,6 +29,7 @@ ports into the corresponding VLANs, as shown in Fig. 5.
 11.For those who will do an additional task, go to step 12, in the other case, you must return the FE0/2, FE0/3, and FE0/4 ports to VLAN1. Also it is desirable to restore the subnet mask on the servers to 255.255.255.0
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(14).png)
 Configuring routing between VLANs (optional task)
+
 12.To configure the routing between VLANs you need to switch the FE0/1 Data Center switch to trunk mode, as shown in Figure 6
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(15).png)
 13.Warning. The following settings must be made on the router Router ISP3 in CLI mode. Before you can perform the following steps you must Delete the IP address on the Router ISP3 interface GE0/0, as shown in Fig. 7.
