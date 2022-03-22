@@ -45,6 +45,8 @@ Router(config-subif)#ip address 4.25.99.129 255.255.255.192
 15. On Web Server1, Web Server2, and DNS Server, specify M.D.Y.1 as the gateway address, M.D.Y.65 and M.D.Y.129 addresses by default.
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(18).png)
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(19).png)
+
 16. Check operability by ping from one server to the other
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(20).png)
+![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(21).png)
 File link:https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/3.2.pkt
