@@ -5,8 +5,7 @@
 3.Assign IP addresses to router interfaces according to the following rules: Router ISP1 GE0/0 to 10.Y.D.1/24, Router ISP3 GE0/0 to M.D.Y.1/24. Addresses for Other interfaces of routers to be assigned in accordance with the address division (D+10).M.Y.0/24 into subnets. Example of interface IP address assignment router ISP1 GE0/0 is shown in Fig. 3. Warning - it is imperative that you enable the interface by checking the "On" box.
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(3).png)
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(4).png)
-
-4. On the computers, specify the addresses of the corresponding gateway addresses (Default Gateway)
+4.On the computers, specify the addresses of the corresponding gateway addresses (Default Gateway)
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(5).png)
 5. Check the connection of computers with their own gateways using the command ping
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(6).png)
