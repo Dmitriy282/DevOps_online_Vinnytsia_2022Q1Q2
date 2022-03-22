@@ -1,5 +1,6 @@
 1.Connect the networks created in the previous task with each other, as shown in Fig. 1. Use the PT-Empty routers to build the Internet network, first inserting the 5 1CGE modules, as shown in Figure 2. Switch Enterprise network to interface GigabitEthernet0/0 (GE0/0) Router ISP1, Switch Data Center network to interface GigabitEthernet0/0 (GE0/0) Router ISP3, WAN port Home Router Home Office network to interface GigabitEthernet0/0 (GE0/0), as shown in Figure 1. Connect the routers through the interfaces as shown in Figure 1.
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(1).png)
+
 2.To implement the network Internet to use a network with an address of (D+10).M.Y.0/24, dividing it into subnets with the prefix /26.
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(2).png)
 3.Assign IP addresses to router interfaces according to the following rules: Router ISP1 GE0/0 to 10.Y.D.1/24, Router ISP3 GE0/0 to M.D.Y.1/24. Addresses for Other interfaces of routers to be assigned in accordance with the address division (D+10).M.Y.0/24 into subnets. Example of interface IP address assignment router ISP1 GE0/0 is shown in Fig. 3. Warning - it is imperative that you enable the interface by checking the "On" box.
@@ -13,6 +14,7 @@
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(7).png)
 
 Configuring VLAN in Data Center
+
 6.Verify communication between servers using the ping command and route Passing the packet using tracert
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(8).png)
 7.Change the subnet mask on the servers to 255.255.255.192
@@ -54,4 +56,5 @@ Router(config-subif)#ip address 4.25.99.129 255.255.255.192
 16.Check operability by ping from one server to the other
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(20).png)
 ![](https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/image%20(21).png)
+
 File link:https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m3/task3.2/3.2.pkt
