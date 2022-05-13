@@ -1,5 +1,7 @@
 1.Write easy program, which will display current date and time.
 
+link to file: https://github.com/Dmitriy282/DevOps_online_Vinnytsia_2022Q1Q2/blob/main/m8/8.1/1.py
+
 2.Write python program, which will accept comma-separated numbers, and then it should write tuple and list of them:Enter numbers: 1, 2, 7, 43, 9
 
 Output:List: [‘1’, ‘2’, ‘7’, ‘43’, ‘9’]Tuple: (‘1’, ‘2’, ‘7’, ‘43’, ‘9’)
